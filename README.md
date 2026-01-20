@@ -1,4 +1,4 @@
-# RAG Application
+# PDF Assistant Using Lamma2 (RAG - Project)
 
 ## Overview
 This project is a Retrieval-Augmented Generation (RAG) application that enables users to ask questions about PDF documents using open-source LLMs. Built with Llama2, the application retrieves relevant information from uploaded PDFs and generates accurate, context-aware responses. It's an ideal proof-of-concept for integrating NLP with document querying for educational, research, or knowledge management purposes.
